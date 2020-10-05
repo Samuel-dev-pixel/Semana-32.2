@@ -1,0 +1,43 @@
+body{
+background-image: url("Captura 13.png");
+z-index: 1;
+}
+.gif {
+	position: absolute;
+	left: 25%;
+	top: 10%;
+	opacity: 0;
+}
+.imagen {
+	position: absolute;
+	left: 34.6%;
+	top: 24.5%;
+	opacity: 1;
+}
+.iniciar{
+	position: absolute;
+	width: 10%;
+    height: 5%;
+    left: 50%;
+    top: 60%;
+    border-radius: 50%;
+    border-width: none;;
+}
+.boton{
+	position: absolute;
+	width: 10%;
+	height: 5%;
+	top: 92%;
+	border-radius: 50%;
+	color: red;
+	background-color: black;
+	z-index: 1;
+}
+.texto{
+	position: absolute;
+	color: red;
+	top: 2%;
+	left: 42%;
+	font-size: 250%;
+	z-index: 1;
+}
